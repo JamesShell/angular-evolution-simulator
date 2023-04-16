@@ -3,8 +3,8 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.sass']
+  template: '',
 })
-export class AppComponent {
-  title = 'evolution_arena';
+export class AppComponent{
+  
 }
